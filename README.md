@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek-dev-26
-- 👀 I’m interested in JS, ReactJS and Devops.
+- 👀 I’m interested in JS, ReactJS,NodeJS,Express,SEO and Devops.
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate on DS and Algo.
 - 📫 How to reach me ? - viveksaicode0792@gmail.com
